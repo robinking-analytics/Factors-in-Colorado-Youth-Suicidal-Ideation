@@ -8,10 +8,6 @@ An exploratory study investigating suicidal ideation among Colorado high school 
 
 See Robin_King_MIS581_Capstone.pdf for study findings.
 
-### Abstract
-
-This study used the latest publicly available health and economic county-level data to find correlations between key health and economic measures and the percentage of Colorado youth who seriously considered suicide. Median home, median household income, and percent of housing units with more than one person per room were moderately negatively correlated. The percent of related children (5-17 years old) in poverty and the percent of children (< 18 years old) below poverty level were weakly positively correlated. Conversely, rates of poverty and deep poverty were not significantly correlated. Several health factors were moderately positively correlated, including markers of poor health among adults (rates of diabetes, obesity, inactivity, self-identified fair or poor health, and hospitalization due to stroke), poor health among high school students (rates of obesity and asthma), the percentage of high school students who had extended periods of sadness, and the percentage of high school students who had had sexual intercourse. Perhaps surprisingly, this study found that the percentage of adults who reported recent binge drinking and the percent of adults who used marijuana recently were moderately negatively correlated, while the percent of high schoolers who used marijuana recently was weakly negatively correlated. Finally, the percentage of students who ate several fruits and vegetables each day and the percent of active adults were both moderately negatively correlated. No significant correlations were found for rates of high schoolers’ physical activity or current cigarette smoking or for adults’ asthma diagnosis.
-
 ## Tools
 
 SAS&reg; Studio, RapidMiner, and GoogleSheets.
