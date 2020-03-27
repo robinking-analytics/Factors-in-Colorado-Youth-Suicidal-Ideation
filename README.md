@@ -28,7 +28,7 @@ Data from two key sites were used:
 
 - Technnical documentation is posted, with a tab showing fields that were used in this study: AHRF 2018-2019 Technical Documentation with my selected fields.xlsx
 
-###Colorado Department of Public Health and Environment Colorado Health Indicators
+### Colorado Department of Public Health and Environment Colorado Health Indicators
 
 - Data was retrieved from: https://www.colorado.gov/pacific/cdphe/colorado-health-indicators
 
