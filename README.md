@@ -3,11 +3,6 @@ SAS Studio, GoogleSheets, and RapidMiner were used to explore publicly available
 
 An exploratory study investigating suicidal ideation among Colorado high school students and various economic and health population-level factors.
 
-
-## Findings 
-
-See Robin_King_MIS581_Capstone.pdf for study findings.
-
 ## Tools
 
 SAS&reg; Studio, RapidMiner, and GoogleSheets.
@@ -43,3 +38,8 @@ Data from two key sites were used:
 ## Statistics
 
 The data was explored numerically and visually using code in Correlations.sas
+
+
+## Findings 
+
+See Robin_King_MIS581_Capstone.pdf for study findings.
