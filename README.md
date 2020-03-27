@@ -38,11 +38,11 @@ Data from two key sites were used:
 
 ### Composite Database
 
-The data was combined into a single file using SAS: CreateComboDatabase.sas
+- The data was combined into a single file using SAS: CreateComboDatabase.sas
 
-The composite database is posted as: ahrf-cohealth-combo.csv
+- The composite database is posted as: ahrf-cohealth-combo.csv
 
-Labels for signficantly correlated variables were added with AddLabels.sas
+- Labels for signficantly correlated variables were added with AddLabels.sas
 
 ## STATISTICS
 
