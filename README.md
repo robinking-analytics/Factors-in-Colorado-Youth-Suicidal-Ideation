@@ -5,6 +5,7 @@ An exploratory study investigating suicidal ideation among Colorado high school 
 
 
 FINDINGS 
+
 See Robin_King_MIS581_Capstone.pdf for study findings.
 
 Abstract
