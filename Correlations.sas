@@ -273,6 +273,24 @@ and  F1116015 =0 and F1116010 =0 and  F1318717 =0 and
 F1068317 =0 and F1319017 =0 and F1069017=0)
 group by F0002013 
 order by F0002013 ;
+Quit;
+* compare counties with and without child mental health services;
+proc sql;
+Select  'No' 'Services', F0002013 'Contiuum', count(*) 'Count'
+from port_581.ahrf2019
+where  F12424 = 'CO' 
+and  ((F0474817 +F0474815 +F0474810 +F1116017 +F1116015 +F1116010 +F1318717 +F1068317 +F1319017 +F1069017)=0)
+group by 1, 2
+UNION
+Select  'Yes' 'Services', F0002013 'Contiuum', count(*) 'Count'
+from port_581.ahrf2019
+where  F12424 = 'CO' 
+and  ((F0474817+F0474815 +F0474810 +F1116017 +F1116015 +F1116010 +F1318717 + F1068317 +F1319017+F1069017)>0)
+group by 1, 2
+order by 1, 2;
+quit;
+
+
 quit;
 * Look at the counties that do not have ZERO for every measure of child mental health services;
 * sort with the lowest total number first;
