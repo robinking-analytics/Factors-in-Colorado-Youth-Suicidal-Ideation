@@ -42,4 +42,4 @@ The data was explored numerically and visually using code in Correlations.sas
 
 ## Findings 
 
-See Robin_King_MIS581_Capstone.pdf for study findings.
+See Factors_in_Youth_Suicide_Robin_King.pdf for study findings.
