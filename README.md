@@ -41,7 +41,7 @@ The data was explored numerically and visually using code in Correlations.sas
 
 
 ## Findings 
-This study used the latest publicly available health and economic county-level data (as of April 2020) to find
+This exploratory study used the latest publicly available health and economic county-level data (as of April 2020) to explore
 correlations between key **health and economic measures** and the **percentage of Colorado youth
 who seriously considered suicide**.
 ### Economic measures correlated with the percentage of Colorado youth who seriously considered suicide
