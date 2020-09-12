@@ -1,8 +1,6 @@
 # Factors-in-Colorado-Youth-Suicidal-Ideation
 SAS Studio, GoogleSheets, and RapidMiner were used to explore publicly available data to identify county-level economic and health factors that are correlated with serious thoughts of suicide among Colorado high school students. SAS&reg; was used to calculate correlations and to draw several graphs, including histograms, scatterplots, and scatterplot matrices.  
 
-This study is presented on YouTube at: https://www.youtube.com/watch?v=60sk52Xd-IE
-
 ## Tools
 
 SAS&reg; Studio, RapidMiner, and GoogleSheets.
